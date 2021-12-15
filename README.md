@@ -1,4 +1,4 @@
-# 2020_2021_Europe_vaccinated_infographic
+# 2020-2021 Europe Covid-19 vaccinated and deaths per million infographic
 
 The python code of a Blender project that creates a video of European countries showing daily changes of deaths per million due to Covid-19 and double vaccination percentages from January 2020 until December 2021.
 
