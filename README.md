@@ -10,7 +10,8 @@ The data were taken from:
 https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 
+![image](https://user-images.githubusercontent.com/12892531/146231359-5b6bbf82-5fbd-46c8-881d-d06eab7f9ce4.png)
 
-![image](https://user-images.githubusercontent.com/12892531/146226165-da20bae0-748f-4f98-b27a-101e448bb416.png)
+
 
 
